@@ -6,4 +6,5 @@
 | 2      | ANN (Full dataset on GPU)      | 88.9%     | Overfitting           |
 | 3      | ANN (Optimized)                | 88.9%     | Reduced Overfitting   |
 | 4      | ANN (Hyperparameter Tuned)     | 90.2%     |                       |
+| 5      | CNN                            | 92.6%     | Overfitting           |
 
