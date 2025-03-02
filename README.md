@@ -7,4 +7,5 @@
 | 3      | ANN (Optimized)                | 88.9%     | Reduced Overfitting   |
 | 4      | ANN (Hyperparameter Tuned)     | 90.2%     |                       |
 | 5      | CNN                            | 92.6%     | Overfitting           |
+| 5      | VGG-16 (Transfer Learning )    | 94.2%     |                       |
 
